@@ -23,3 +23,4 @@ def get_weather(city_name):
 
 city = input("نام شهر را وارد کنید: ")
 get_weather(city)
+print ("update version")
